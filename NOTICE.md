@@ -1,7 +1,7 @@
 Slicer Extensions
 ==================
 
-This presentation described the Slicer extensions infrastucture.
+This presentation described the Slicer extensions usage and contribution process.
 
 The content of this repository is copyrighted by contributors and it is distributed under the following licenses.
 

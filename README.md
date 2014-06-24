@@ -1,7 +1,9 @@
 Abstract
 ========
 
-This presentation described the Slicer extensions infrastucture.
+This presentation was given during the afternoon [breakout session](http://www.na-mic.org/Wiki/index.php/2014_Summer_Project_Week_Breakout_Session:SlicerExtensions) that happened at MIT during the [19th NA-MIC project week](http://www.na-mic.org/Wiki/index.php/2014_Summer_Project_Week).
+
+The presentation gives an overview of the Slicer extensions usage and contribution process.
 
 Licensing
 =========
