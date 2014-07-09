@@ -5,6 +5,8 @@ This presentation was given during the afternoon [breakout session](http://www.n
 
 The presentation gives an overview of the Slicer extensions usage and contribution process.
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.10804.png)](http://dx.doi.org/10.5281/zenodo.10804)
+
 Licensing
 =========
 
